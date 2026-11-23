@@ -1,5 +1,19 @@
 {
- "assets": {},
+ "assets": {
+  "WoodSiding001": "02495b0f59acf6aba523c80ae85c3b4f0a90f151",
+  "WoodSiding002": "b446c254b49c82e5405a1ca248bb12d9008e880f",
+  "WoodSiding003": "cbd2c217c2b33877fc159d06bf6faeac7c946302",
+  "WoodSiding004": "fba2f4dee589fc9d7e1758c687ce8c10703ad9c9",
+  "WoodSiding005": "d93ed2387f2915afe6a756b81ab9c52b13670d91",
+  "WoodSiding006": "cd67271a1e648a88e1b42dfc5741a7b0257af56c",
+  "WoodSiding007": "b168d81425a014abd088744d6d6a406a29a5b357",
+  "WoodSiding008": "cee24248fc0d3e1313fa07ee4e6f464d99e6f22b",
+  "WoodSiding009": "238e2f630c9b66b1dd7b52345e16794d4181fe0e",
+  "WoodSiding010": "da3f8efa9a0a83ea39b39e0a18bd8bb869131b03",
+  "WoodSiding011": "af4e2d4de8e83dab47fbea00b247b138b9f898f3",
+  "WoodSiding012": "770d27c8089b842a1fbb26882fb6d7df78631b4c",
+  "WoodSiding013": "3c0eed81907b5ef9640d49f066f10712655eef56"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",

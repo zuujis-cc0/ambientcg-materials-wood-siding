@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" load_steps=4 format=3 uid="acg_s1bm8zyq"]
+
+[ext_resource type="Texture2D" uid="uid://acg_4k5zygft" id="Color" path="./WoodSiding011_2K-JPG_Color.jpg"]
+[ext_resource type="Texture2D" uid="uid://acg_ofnwqj5x" id="Displacement" path="./WoodSiding011_2K-JPG_Displacement.jpg"]
+[ext_resource type="Texture2D" uid="uid://acg_gfxr34l7" id="NormalGL" path="./WoodSiding011_2K-JPG_NormalGL.jpg"]
+[resource]
+albedo_texture = ExtResource("Color")
+normal_texture = ExtResource("NormalGL")
+normal_enabled = true
+heightmap_texture = ExtResource("Displacement")
+heightmap_scale = 1.0
+heightmap_enabled = true
